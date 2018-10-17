@@ -5,4 +5,5 @@ Quick Markdown Overview
 
  - write bullet lists with '-'
  - create **bold text with**  with **
+ - create *itallic* text with '*'
  - include [links](https://github.com/yunusbio/swc-example-yunus) with [] and ()

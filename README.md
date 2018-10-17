@@ -1,5 +1,7 @@
 # swc-example-yunus
-A short example project for the git lesson of EMBL Software Carpentry
+
+An example project for the git lesson of EMBL Software Carpentry
+
 
 Quick Markdown Overview
 
